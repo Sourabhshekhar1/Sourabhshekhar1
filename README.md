@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d1117,100:0a192f&height=250&section=header&text=Sourabh%20Shekhar&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&desc=💻%20C%2B%2B%20Developer%20|%20Software%20Engineer%20|%20CS%20@%20IPU%20Delhi&descSize=18&descAlignY=68&descFontColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Sourabh%20Shekhar&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=50&desc=💻%20Software%20Developer%20|%20CS%20Student%20@%20IPU%20Delhi&descSize=18&descAlignY=72&descFontColor=8b949e)
 
 </div>
 
