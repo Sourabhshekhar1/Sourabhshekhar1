@@ -1,7 +1,5 @@
 <div align="center">
-
-![header]([https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d1117,100:0a192f&height=250&section=header&text=Sourabh%20Shekhar&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&desc=💻%20C%2B%2B%20Developer%20|%20Software%20Engineer%20|%20CS%20@%20IPU%20Delhi&descSize=18&descAlignY=68&descFontColor=8b949e](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNqc2JibXRsbzNuMXM5aHVqdDI0emk3ZGNhd2xoaXd6eTJzdHRpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif))
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNqc2JibXRsbzNuMXM5aHVqdDI0emk3ZGNhd2xoaXd6eTJzdHRpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000" />
 </div>
 
 <div align="center">
