@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=while(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+repeat()%3B+%7D;C%2B%2B+Developer+%7C+Learning+Java+%26+JavaScript;QA+Engineer+%7C+Selenium+%7C+JUnit5;Building+Real-World+Projects+%F0%9F%9A%80;B.Tech+CS+%40+IPU+Delhi+%F0%9F%8E%93;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<br/>
-
-
-<br/>
-
 ---
 
 ## 👨‍💻 About Me
